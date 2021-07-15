@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://mysite.com/index.html</loc>
+	</url>
+	<url>
+		<loc>https://mysite.com/AppleMusic.html</loc>
+	</url>
+	<url>
+		<loc>https://mysite.com/about.html</loc>
+	</url>
+	<url>
+		<loc>https://mysite.com/concert.html</loc>
+	</url>
+	<url>
+		<loc>https://mysite.com/store.html</loc>
+	</url>
+	<url>
+		<loc>https://mysite.com/help.html</loc>
+	</url>
+	<url>
+		<loc>https://mysite.com/itunes.html</loc>
+	</url>
+</urlset>
